@@ -1,0 +1,22 @@
+C:\Users\João\source\repos\TESTE CERVANTES\TESTE CERVANTES\bin\Debug\net8.0-windows\TESTE CERVANTES.exe
+C:\Users\João\source\repos\TESTE CERVANTES\TESTE CERVANTES\bin\Debug\net8.0-windows\TESTE CERVANTES.deps.json
+C:\Users\João\source\repos\TESTE CERVANTES\TESTE CERVANTES\bin\Debug\net8.0-windows\TESTE CERVANTES.runtimeconfig.json
+C:\Users\João\source\repos\TESTE CERVANTES\TESTE CERVANTES\bin\Debug\net8.0-windows\TESTE CERVANTES.dll
+C:\Users\João\source\repos\TESTE CERVANTES\TESTE CERVANTES\bin\Debug\net8.0-windows\TESTE CERVANTES.pdb
+C:\Users\João\source\repos\TESTE CERVANTES\TESTE CERVANTES\bin\Debug\net8.0-windows\Dapper.dll
+C:\Users\João\source\repos\TESTE CERVANTES\TESTE CERVANTES\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\João\source\repos\TESTE CERVANTES\TESTE CERVANTES\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\João\source\repos\TESTE CERVANTES\TESTE CERVANTES\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\João\source\repos\TESTE CERVANTES\TESTE CERVANTES\obj\Debug\net8.0-windows\TESTE CERVANTES.csproj.AssemblyReference.cache
+C:\Users\João\source\repos\TESTE CERVANTES\TESTE CERVANTES\obj\Debug\net8.0-windows\TESTE_CERVANTES.Form1.resources
+C:\Users\João\source\repos\TESTE CERVANTES\TESTE CERVANTES\obj\Debug\net8.0-windows\TESTE CERVANTES.csproj.GenerateResource.cache
+C:\Users\João\source\repos\TESTE CERVANTES\TESTE CERVANTES\obj\Debug\net8.0-windows\TESTE CERVANTES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João\source\repos\TESTE CERVANTES\TESTE CERVANTES\obj\Debug\net8.0-windows\TESTE CERVANTES.AssemblyInfoInputs.cache
+C:\Users\João\source\repos\TESTE CERVANTES\TESTE CERVANTES\obj\Debug\net8.0-windows\TESTE CERVANTES.AssemblyInfo.cs
+C:\Users\João\source\repos\TESTE CERVANTES\TESTE CERVANTES\obj\Debug\net8.0-windows\TESTE CERVANTES.csproj.CoreCompileInputs.cache
+C:\Users\João\source\repos\TESTE CERVANTES\TESTE CERVANTES\obj\Debug\net8.0-windows\TESTE CE.C52715C7.Up2Date
+C:\Users\João\source\repos\TESTE CERVANTES\TESTE CERVANTES\obj\Debug\net8.0-windows\TESTE CERVANTES.dll
+C:\Users\João\source\repos\TESTE CERVANTES\TESTE CERVANTES\obj\Debug\net8.0-windows\refint\TESTE CERVANTES.dll
+C:\Users\João\source\repos\TESTE CERVANTES\TESTE CERVANTES\obj\Debug\net8.0-windows\TESTE CERVANTES.pdb
+C:\Users\João\source\repos\TESTE CERVANTES\TESTE CERVANTES\obj\Debug\net8.0-windows\TESTE CERVANTES.genruntimeconfig.cache
+C:\Users\João\source\repos\TESTE CERVANTES\TESTE CERVANTES\obj\Debug\net8.0-windows\ref\TESTE CERVANTES.dll
